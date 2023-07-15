@@ -10,5 +10,5 @@ Killed by Cedric is a full list of dead projects killed by Cedric along the the 
 
 3. [Feeder](../master/Feeder): Yet Another news App with great UI using interface composition in SwiftUI and static content✨
 
-[DesignCode](../master/DesignCode): A `Learning` app UI concept made in Swiftui, implementing complex animations concepts from `SwiftUI`
+4. [DesignCode](../master/DesignCode): A `Learning` app UI concept made in Swiftui, implementing complex animations concepts from `SwiftUI`
 
